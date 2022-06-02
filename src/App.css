@@ -8,3 +8,9 @@
   object-fit: cover;
   border-radius: 50%;
 }
+
+.counter-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
